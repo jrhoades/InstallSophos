@@ -14,3 +14,5 @@
 
 ## Remove Installer
 rm -rf /Library/Application\ Support/JAMF/SophosInstall/
+
+exit 0
