@@ -10,7 +10,7 @@
 ####################################################################################################
 
 ## Install Sophos
-/Library/Application\ Support/JAMF/ESCOSX/Sophos\ Installer.app/Contents/MacOS/tools/InstallationDeployer --install
+/Library/Application\ Support/JAMF/SophosInstall/Sophos\ Installer.app/Contents/MacOS/Sophos\ Installer --install
 
 ## Remove Installer
-rm -rf /Library/Application\ Support/JAMF/ESCOSX/
+rm -rf /Library/Application\ Support/JAMF/SophosInstall/
